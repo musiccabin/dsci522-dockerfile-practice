@@ -1,0 +1,10 @@
+name: 522-ind-2
+channels:
+  - conda-forge
+dependencies:
+  - python==3.11.10
+  - conda[version='>=24.3.0']
+  - pandas==2.2.3
+  - altair==5.4.1
+  - conda-lock
+prefix: /Users/susannahsun/miniforge3
